@@ -1,4 +1,17 @@
-# babel
+# 开发指南
+
+```
+# 下载仓库代码
+git clone git@github.com:GuoYongfeng/course-code.git
+# 到仓库目录
+cd course-code
+# 下载项目的依赖
+npm install
+# 运行
+npm run dev
+# http://localhost:8080/
+```
+
 > js编译器
 
 - babel-cli
