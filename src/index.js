@@ -1,11 +1,9 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
-class MyComponent extends React.Component {
-  render(){
-    return <h1> hh </h1>
-  }
-}
+import MyComponent from './components/MyComponent/index.js';
+
+import 'bootstrap/dist/css/bootstrap.css';
 
 let rootEle = document.getElementById('app');
 
